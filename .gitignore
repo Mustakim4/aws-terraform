@@ -2,3 +2,6 @@
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
+.terraform.tfstate.lock.info
+test-vpc-private-key
+test-vpc-public-key.pub
